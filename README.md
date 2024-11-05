@@ -1,9 +1,8 @@
 ## 👋 Hey there! I'm Luiz Henrique Bueno – welcome to my GitHub!
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuizBueno1&theme=tokyonight&show_icons=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBueno1&theme=tokyonight&layout=compact" alt="Top Langs"/>
-</div>
+
+  <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=LuizBueno1&theme=tokyonight&layout=compact" alt="GitHub stats" />
+  
 
 
 <div style="display: inline-block;"><br>

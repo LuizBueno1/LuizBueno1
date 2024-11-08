@@ -2,7 +2,7 @@
 
 **`Back-End Developer`**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBueno1&theme=tokyonight&layout=compact&langs_count=10" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBueno1&theme=tokyonight&layout=compact&cache_seconds=21600&langs_count=10" alt="GitHub Stats"/>
   
 <div style="display: inline-block;"><br>
 <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java">

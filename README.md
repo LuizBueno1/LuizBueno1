@@ -1,25 +1,24 @@
-## 👋 Hey there! I'm Luiz Henrique Bueno – welcome to my GitHub! 
+## 🚀 Welcome to My GitHub Portfolio! Explore My Projects and Skills!
 
 **`Back-End Developer`**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBueno1&theme=tokyonight&layout=compact&cache_seconds=21600&langs_count=10" alt="GitHub Stats"/>
-  
-<div style="display: inline-block;"><br>
-<img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java">
-<img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#">
-<img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python">
-<img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql">
-<img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html">
-<img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBueno1&theme=tokyonight&layout=compact&cache_seconds=21600&langs_count=10)
+
+<br>
+
+<div>
+  <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java">
+  <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#">
+  <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python">
+  <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL">
+  <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML">
+  <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS">
 </div>
 
 ---
 
-<div>
-  <a href="https://www.linkedin.com/in/luiz-henrique-bueno-152ba329a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-bueno-152ba329a/)
+
 
 <!--
 **LuizBueno1/LuizBueno1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

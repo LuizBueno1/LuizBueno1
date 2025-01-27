@@ -1,17 +1,22 @@
+<div align="center">
+
 ## 🚀 Welcome to My GitHub Portfolio! Explore My Projects and Skills!
 
 **`Back-End Developer`**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBueno1&theme=tokyonight&layout=compact&cache_seconds=21600&langs_count=10)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuizBueno1/LuizBueno1/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuizBueno1/LuizBueno1/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/LuizBueno1/LuizBueno1/output/github-snake.svg" />
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuizBueno1/LuizBueno1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuizBueno1/LuizBueno1/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuizBueno1/LuizBueno1/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div>
+<br>
+<br>
+<div>        
   <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java">
+  <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring"/>
   <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#">
   <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python">
   <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL">
@@ -20,6 +25,8 @@
 </div>
 
 ---
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-bueno-152ba329a/)
 

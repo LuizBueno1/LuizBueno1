@@ -4,7 +4,11 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBueno1&theme=tokyonight&layout=compact&cache_seconds=21600&langs_count=10)
 
-![Snake animation](https://github.com/LuizBueno1/LuizBueno1/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuizBueno1/LuizBueno1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuizBueno1/LuizBueno1/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/LuizBueno1/LuizBueno1/output/github-snake.svg" />
+</picture>
 
 <div>
   <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java">
